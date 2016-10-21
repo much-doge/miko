@@ -10,6 +10,7 @@
 --
 --  conky_orange.lua:    http://gnome-look.org/content/show.php?content=137503&forumpage=0
 --  lunatico_rings.lua:  http://gnome-look.org/content/show.php?content=142884
+--  *change the disk path and network interface based on your setup 
 --==============================================================================
 
 require 'cairo'
