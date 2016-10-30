@@ -25,7 +25,35 @@
     foreground_color = "#336e7b"
     show_titlebar = False
     font = Terminus 9
-    background_color = "#032f39"
+    background_color = "#002b36"
+    scrollback_infinite = True
+  [[solarized]]
+    scrollbar_position = hidden
+    palette = "#073642:#d30102:#859900:#b58900:#6c71c4:#d33682:#2aa198:#839496:#586e75:#cb4b16:#859900:#b58900:#268bd2:#dc322f:#2aa198:#93a1a1"
+    background_image = None
+    background_darkness = 0.12
+    scrollback_lines = 1000000
+    cursor_shape = underline
+    use_system_font = False
+    cursor_color = "#00928c"
+    foreground_color = "#336e7b"
+    show_titlebar = False
+    font = Terminus 9
+    background_color = "#002b36"
+    scrollback_infinite = True
+  [[zen]]
+    scrollbar_position = hidden
+    palette = "#3f3f3f:#cc9393:#7f9f7f:#e3ceab:#dfaf8f:#cc9393:#8cd0d3:#dcdccc:#3f3f3f:#cc9393:#7f9f7f:#e3ceab:#dfaf8f:#cc9393:#8cd0d3:#dcdccc"
+    background_image = None
+    background_darkness = 0.91
+    scrollback_lines = 1000000
+    cursor_shape = underline
+    use_system_font = False
+    cursor_color = "#dcdcdc"
+    foreground_color = "#382e2e"
+    show_titlebar = False
+    font = Terminus 9
+    background_color = "#616161"
     scrollback_infinite = True
 [layouts]
   [[default]]
